@@ -1,3 +1,3 @@
 doc1
-doc new
+doc2
 doc new1
